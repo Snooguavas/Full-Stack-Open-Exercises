@@ -1,0 +1,9 @@
+put http://localhost:3001/api/blogs/66157afed831ac1f554d8613
+Content-Type: application/json
+
+{
+    "title": "fsasauk",
+    "author": "UPDATE",
+    "url": "http://frdslsdsdcd",
+    "likes": 0
+}
